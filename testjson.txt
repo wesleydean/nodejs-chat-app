@@ -1,0 +1,21 @@
+usersInActiveMessage
+usersInChatRoom
+usersOnline
+activeChatrooms
+
+actions: {
+	login: {
+		add username,
+		add status line
+	}
+}
+userActions: {
+	leaveroom,
+	enterroom,
+	startchat,
+	endchat
+}
+
+adminActions: {
+	endchatroom
+}
